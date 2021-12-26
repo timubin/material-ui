@@ -1,0 +1,16 @@
+.mararial {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  padding: 10px;
+  flex-wrap: wrap;
+  background-color: black;
+}
+
+.mararial a {
+  font-family: roboto;
+  text-transform: capitalize;
+  margin: 0 10px;
+  text-decoration: none;
+  color: white !important;
+}
